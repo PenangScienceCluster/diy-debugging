@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <office:document xmlns:officeooo="http://openoffice.org/2009/office" xmlns:css3t="http://www.w3.org/TR/css3-text/" xmlns:grddl="http://www.w3.org/2003/g/data-view#" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:formx="urn:openoffice:names:experimental:ooxml-odf-interop:xmlns:form:1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:chart="urn:oasis:names:tc:opendocument:xmlns:chart:1.0" xmlns:svg="urn:oasis:names:tc:opendocument:xmlns:svg-compatible:1.0" xmlns:text="urn:oasis:names:tc:opendocument:xmlns:text:1.0" xmlns:oooc="http://openoffice.org/2004/calc" xmlns:style="urn:oasis:names:tc:opendocument:xmlns:style:1.0" xmlns:ooow="http://openoffice.org/2004/writer" xmlns:meta="urn:oasis:names:tc:opendocument:xmlns:meta:1.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rpt="http://openoffice.org/2005/report" xmlns:draw="urn:oasis:names:tc:opendocument:xmlns:drawing:1.0" xmlns:config="urn:oasis:names:tc:opendocument:xmlns:config:1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:fo="urn:oasis:names:tc:opendocument:xmlns:xsl-fo-compatible:1.0" xmlns:ooo="http://openoffice.org/2004/office" xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0" xmlns:dr3d="urn:oasis:names:tc:opendocument:xmlns:dr3d:1.0" xmlns:table="urn:oasis:names:tc:opendocument:xmlns:table:1.0" xmlns:number="urn:oasis:names:tc:opendocument:xmlns:datastyle:1.0" xmlns:of="urn:oasis:names:tc:opendocument:xmlns:of:1.2" xmlns:calcext="urn:org:documentfoundation:names:experimental:calc:xmlns:calcext:1.0" xmlns:tableooo="http://openoffice.org/2009/table" xmlns:drawooo="http://openoffice.org/2010/draw" xmlns:loext="urn:org:documentfoundation:names:experimental:office:xmlns:loext:1.0" xmlns:dom="http://www.w3.org/2001/xml-events" xmlns:field="urn:openoffice:names:experimental:ooo-ms-interop:xmlns:field:1.0" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:form="urn:oasis:names:tc:opendocument:xmlns:form:1.0" xmlns:script="urn:oasis:names:tc:opendocument:xmlns:script:1.0" xmlns:xforms="http://www.w3.org/2002/xforms" office:version="1.3" office:mimetype="application/vnd.oasis.opendocument.text">
- <office:meta><meta:creation-date>2020-08-26T12:11:45.739455401</meta:creation-date><dc:date>2020-08-26T18:20:08.491728444</dc:date><meta:editing-duration>PT1H38M26S</meta:editing-duration><meta:editing-cycles>8</meta:editing-cycles><meta:generator>LibreOffice/7.0.1.1.0$Linux_X86_64 LibreOffice_project/00$Build-1</meta:generator><meta:document-statistic meta:table-count="0" meta:image-count="0" meta:object-count="0" meta:page-count="1" meta:paragraph-count="35" meta:word-count="174" meta:character-count="769" meta:non-whitespace-character-count="644"/></office:meta>
+ <office:meta><meta:creation-date>2020-08-26T12:11:45.739455401</meta:creation-date><dc:date>2020-09-07T12:48:49.321892601</dc:date><meta:editing-duration>PT3H10M53S</meta:editing-duration><meta:editing-cycles>14</meta:editing-cycles><meta:generator>LibreOffice/7.0.1.1.0$Linux_X86_64 LibreOffice_project/00$Build-1</meta:generator><meta:document-statistic meta:table-count="0" meta:image-count="0" meta:object-count="0" meta:page-count="3" meta:paragraph-count="93" meta:word-count="646" meta:character-count="3040" meta:non-whitespace-character-count="2524"/></office:meta>
  <office:settings>
   <config:config-item-set config:name="ooo:view-settings">
-   <config:config-item config:name="ViewAreaTop" config:type="long">5142</config:config-item>
+   <config:config-item config:name="ViewAreaTop" config:type="long">52612</config:config-item>
    <config:config-item config:name="ViewAreaLeft" config:type="long">0</config:config-item>
    <config:config-item config:name="ViewAreaWidth" config:type="long">35872</config:config-item>
    <config:config-item config:name="ViewAreaHeight" config:type="long">16085</config:config-item>
@@ -13,12 +13,12 @@
    <config:config-item-map-indexed config:name="Views">
     <config:config-item-map-entry>
      <config:config-item config:name="ViewId" config:type="string">view2</config:config-item>
-     <config:config-item config:name="ViewLeft" config:type="long">12928</config:config-item>
-     <config:config-item config:name="ViewTop" config:type="long">20027</config:config-item>
+     <config:config-item config:name="ViewLeft" config:type="long">16491</config:config-item>
+     <config:config-item config:name="ViewTop" config:type="long">63877</config:config-item>
      <config:config-item config:name="VisibleLeft" config:type="long">0</config:config-item>
-     <config:config-item config:name="VisibleTop" config:type="long">5142</config:config-item>
+     <config:config-item config:name="VisibleTop" config:type="long">52612</config:config-item>
      <config:config-item config:name="VisibleRight" config:type="long">35870</config:config-item>
-     <config:config-item config:name="VisibleBottom" config:type="long">21225</config:config-item>
+     <config:config-item config:name="VisibleBottom" config:type="long">68695</config:config-item>
      <config:config-item config:name="ZoomType" config:type="short">0</config:config-item>
      <config:config-item config:name="ViewLayoutColumns" config:type="short">1</config:config-item>
      <config:config-item config:name="ViewLayoutBookMode" config:type="boolean">false</config:config-item>
@@ -84,7 +84,7 @@
    <config:config-item config:name="ChartAutoUpdate" config:type="boolean">true</config:config-item>
    <config:config-item config:name="PrinterSetup" config:type="base64Binary"/>
    <config:config-item config:name="AddParaTableSpacingAtStart" config:type="boolean">true</config:config-item>
-   <config:config-item config:name="Rsid" config:type="int">1402161</config:config-item>
+   <config:config-item config:name="Rsid" config:type="int">1900945</config:config-item>
    <config:config-item config:name="EmbeddedDatabaseName" config:type="string"/>
    <config:config-item config:name="FieldAutoUpdate" config:type="boolean">true</config:config-item>
    <config:config-item config:name="OutlineLevelYieldsNumbering" config:type="boolean">false</config:config-item>
@@ -289,42 +289,92 @@
   <text:linenumbering-configuration text:number-lines="false" text:offset="0.1965in" style:num-format="1" text:number-position="left" text:increment="5"/>
  </office:styles>
  <office:automatic-styles>
-  <style:style style:name="P1" style:family="paragraph" style:parent-style-name="Standard" style:list-style-name="L1">
+  <style:style style:name="P1" style:family="paragraph" style:parent-style-name="Standard">
    <style:text-properties officeooo:paragraph-rsid="0013db75"/>
   </style:style>
-  <style:style style:name="P2" style:family="paragraph" style:parent-style-name="Standard" style:list-style-name="L1">
+  <style:style style:name="P2" style:family="paragraph" style:parent-style-name="Standard">
+   <style:text-properties officeooo:paragraph-rsid="001566f1"/>
+  </style:style>
+  <style:style style:name="P3" style:family="paragraph" style:parent-style-name="Standard">
    <style:text-properties officeooo:rsid="0013db75" officeooo:paragraph-rsid="0013db75"/>
   </style:style>
-  <style:style style:name="P3" style:family="paragraph" style:parent-style-name="Standard" style:list-style-name="L1">
+  <style:style style:name="P4" style:family="paragraph" style:parent-style-name="Standard">
    <style:text-properties officeooo:rsid="0013db75" officeooo:paragraph-rsid="00156531"/>
   </style:style>
-  <style:style style:name="P4" style:family="paragraph" style:parent-style-name="Standard" style:list-style-name="L1">
+  <style:style style:name="P5" style:family="paragraph" style:parent-style-name="Standard">
    <style:text-properties officeooo:rsid="00156531" officeooo:paragraph-rsid="00156531"/>
+  </style:style>
+  <style:style style:name="P6" style:family="paragraph" style:parent-style-name="Standard">
+   <style:text-properties officeooo:rsid="001566f1" officeooo:paragraph-rsid="001566f1"/>
+  </style:style>
+  <style:style style:name="P7" style:family="paragraph" style:parent-style-name="Standard">
+   <style:text-properties officeooo:rsid="001728b4" officeooo:paragraph-rsid="001728b4"/>
+  </style:style>
+  <style:style style:name="P8" style:family="paragraph" style:parent-style-name="Standard" style:list-style-name="L1">
+   <style:text-properties officeooo:paragraph-rsid="0013db75"/>
+  </style:style>
+  <style:style style:name="P9" style:family="paragraph" style:parent-style-name="Standard" style:list-style-name="L1">
+   <style:text-properties officeooo:paragraph-rsid="0019a78e"/>
+  </style:style>
+  <style:style style:name="P10" style:family="paragraph" style:parent-style-name="Standard" style:list-style-name="L1">
+   <style:text-properties officeooo:paragraph-rsid="001d0191"/>
+  </style:style>
+  <style:style style:name="P11" style:family="paragraph" style:parent-style-name="Standard" style:list-style-name="L1">
+   <style:text-properties officeooo:rsid="0013db75" officeooo:paragraph-rsid="0013db75"/>
+  </style:style>
+  <style:style style:name="P12" style:family="paragraph" style:parent-style-name="Standard" style:list-style-name="L1">
+   <style:text-properties officeooo:rsid="0013db75" officeooo:paragraph-rsid="00156531"/>
+  </style:style>
+  <style:style style:name="P13" style:family="paragraph" style:parent-style-name="Standard" style:list-style-name="L1">
+   <style:text-properties officeooo:rsid="00156531" officeooo:paragraph-rsid="00156531"/>
+  </style:style>
+  <style:style style:name="P14" style:family="paragraph" style:parent-style-name="Standard" style:list-style-name="L1">
+   <style:text-properties officeooo:rsid="001566f1" officeooo:paragraph-rsid="001566f1"/>
+  </style:style>
+  <style:style style:name="P15" style:family="paragraph" style:parent-style-name="Standard" style:list-style-name="L1">
+   <style:text-properties officeooo:rsid="0019a78e" officeooo:paragraph-rsid="0019a78e"/>
+  </style:style>
+  <style:style style:name="P16" style:family="paragraph" style:parent-style-name="Standard" style:list-style-name="L1">
+   <style:text-properties officeooo:rsid="001b3cad" officeooo:paragraph-rsid="001b3cad"/>
+  </style:style>
+  <style:style style:name="P17" style:family="paragraph" style:parent-style-name="Standard" style:list-style-name="L1">
+   <style:text-properties officeooo:rsid="001d0191" officeooo:paragraph-rsid="001d0191"/>
   </style:style>
   <style:style style:name="T1" style:family="text">
    <style:text-properties officeooo:rsid="0013db75"/>
   </style:style>
+  <style:style style:name="T2" style:family="text">
+   <style:text-properties officeooo:rsid="001566f1"/>
+  </style:style>
+  <style:style style:name="T3" style:family="text">
+   <style:text-properties officeooo:rsid="0019a78e"/>
+  </style:style>
+  <style:style style:name="T4" style:family="text">
+   <style:text-properties officeooo:rsid="001d0191"/>
+  </style:style>
   <text:list-style style:name="L1">
    <text:list-level-style-number text:level="1" style:num-prefix=" " style:num-suffix="." style:num-format="1">
     <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
-     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="0.5in" fo:text-indent="-0.25in" fo:margin-left="0.5in"/>
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="0.55in" fo:text-indent="-0.3in" fo:margin-left="0.55in"/>
     </style:list-level-properties>
    </text:list-level-style-number>
-   <text:list-level-style-number text:level="2" style:num-prefix="(" style:num-suffix=")" style:num-format="a">
+   <text:list-level-style-number text:level="2" style:num-prefix=" " style:num-suffix="." style:num-format="a">
     <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
      <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="0.75in" fo:text-indent="-0.25in" fo:margin-left="0.75in"/>
     </style:list-level-properties>
    </text:list-level-style-number>
-   <text:list-level-style-number text:level="3" style:num-prefix=" " style:num-suffix="." style:num-format="i">
+   <text:list-level-style-bullet text:level="3" text:bullet-char="•">
     <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
      <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="1in" fo:text-indent="-0.25in" fo:margin-left="1in"/>
     </style:list-level-properties>
-   </text:list-level-style-number>
-   <text:list-level-style-number text:level="4" style:num-prefix=" " style:num-suffix="." style:num-format="A">
+    <style:text-properties fo:font-family="StarSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="4" text:bullet-char="•">
     <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
      <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="1.25in" fo:text-indent="-0.25in" fo:margin-left="1.25in"/>
     </style:list-level-properties>
-   </text:list-level-style-number>
+    <style:text-properties fo:font-family="StarSymbol"/>
+   </text:list-level-style-bullet>
    <text:list-level-style-bullet text:level="5" text:bullet-char="•">
     <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
      <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="1.5in" fo:text-indent="-0.25in" fo:margin-left="1.5in"/>
@@ -374,7 +424,7 @@
   <style:master-page style:name="Standard" style:page-layout-name="pm1"/>
  </office:master-styles>
  <office:body>
-  <office:text>
+  <office:text text:use-soft-page-breaks="true">
    <text:sequence-decls>
     <text:sequence-decl text:display-outline-level="0" text:name="Illustration"/>
     <text:sequence-decl text:display-outline-level="0" text:name="Table"/>
@@ -382,157 +432,399 @@
     <text:sequence-decl text:display-outline-level="0" text:name="Drawing"/>
     <text:sequence-decl text:display-outline-level="0" text:name="Figure"/>
    </text:sequence-decls>
-   <text:list xml:id="list1481570587" text:style-name="L1">
+   <text:list xml:id="list944282702" text:style-name="L1">
     <text:list-item>
-     <text:p text:style-name="P1">Choose your device category</text:p>
+     <text:p text:style-name="P8">Choose your device category</text:p>
      <text:list>
       <text:list-item>
-       <text:p text:style-name="P1">Laptop</text:p>
+       <text:p text:style-name="P8">Laptop</text:p>
        <text:list>
         <text:list-item>
-         <text:p text:style-name="P1">Go to <text:bookmark-ref text:reference-format="number" text:ref-name="__RefNumPara__84_491425939">2</text:bookmark-ref></text:p>
+         <text:p text:style-name="P8">Go to <text:bookmark-ref text:reference-format="number" text:ref-name="__RefNumPara__84_491425939">2</text:bookmark-ref></text:p>
         </text:list-item>
        </text:list>
       </text:list-item>
       <text:list-item>
-       <text:p text:style-name="P1">Desktop</text:p>
+       <text:p text:style-name="P8">Desktop</text:p>
        <text:list>
         <text:list-item>
-         <text:p text:style-name="P1">Go to</text:p>
+         <text:p text:style-name="P8">Go to</text:p>
         </text:list-item>
        </text:list>
       </text:list-item>
      </text:list>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P1"><text:bookmark-start text:name="__RefNumPara__84_491425939"/>Does your laptop turn on?<text:bookmark-end text:name="__RefNumPara__84_491425939"/></text:p>
+     <text:p text:style-name="P8"><text:bookmark-start text:name="__RefNumPara__84_491425939"/>Does your laptop turn on?<text:bookmark-end text:name="__RefNumPara__84_491425939"/></text:p>
      <text:list>
       <text:list-item>
-       <text:p text:style-name="P2">No</text:p>
+       <text:p text:style-name="P11">No</text:p>
        <text:list>
         <text:list-item>
-         <text:p text:style-name="P2">Go to <text:bookmark-ref text:reference-format="number" text:ref-name="__RefNumPara__88_491425939">3</text:bookmark-ref></text:p>
+         <text:p text:style-name="P11">Go to <text:bookmark-ref text:reference-format="number" text:ref-name="__RefNumPara__88_491425939">3</text:bookmark-ref></text:p>
         </text:list-item>
        </text:list>
       </text:list-item>
       <text:list-item>
-       <text:p text:style-name="P2">Yes</text:p>
+       <text:p text:style-name="P11">Yes</text:p>
        <text:list>
         <text:list-item>
-         <text:p text:style-name="P2">Go to <text:bookmark-ref text:reference-format="number" text:ref-name="__RefNumPara__133_491425939">6</text:bookmark-ref></text:p>
+         <text:p text:style-name="P11">Go to <text:bookmark-ref text:reference-format="number" text:ref-name="__RefNumPara__133_491425939">6</text:bookmark-ref></text:p>
         </text:list-item>
        </text:list>
       </text:list-item>
      </text:list>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P1"><text:bookmark-start text:name="__RefNumPara__88_491425939"/><text:span text:style-name="T1">When charging, do you see LED indicators lighting up?</text:span><text:bookmark-end text:name="__RefNumPara__88_491425939"/></text:p>
+     <text:p text:style-name="P11"><text:bookmark-start text:name="__RefNumPara__88_491425939"/>When charging, do you see LED indicators lighting up?<text:bookmark-end text:name="__RefNumPara__88_491425939"/></text:p>
      <text:list>
       <text:list-item>
-       <text:p text:style-name="P2">No</text:p>
+       <text:p text:style-name="P11">No</text:p>
        <text:list>
         <text:list-item>
-         <text:p text:style-name="P2">Go to <text:bookmark-ref text:reference-format="number" text:ref-name="__RefNumPara__91_491425939">4</text:bookmark-ref></text:p>
+         <text:p text:style-name="P11">Go to <text:bookmark-ref text:reference-format="number" text:ref-name="__RefNumPara__91_491425939">4</text:bookmark-ref></text:p>
         </text:list-item>
        </text:list>
       </text:list-item>
       <text:list-item>
-       <text:p text:style-name="P2">Yes</text:p>
+       <text:p text:style-name="P11">Yes</text:p>
        <text:list>
         <text:list-item>
-         <text:p text:style-name="P2">Go to <text:bookmark-ref text:reference-format="number" text:ref-name="__RefNumPara__116_491425939">5</text:bookmark-ref></text:p>
+         <text:p text:style-name="P11">Go to <text:bookmark-ref text:reference-format="number" text:ref-name="__RefNumPara__116_491425939">5</text:bookmark-ref></text:p>
         </text:list-item>
        </text:list>
       </text:list-item>
      </text:list>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P2"><text:bookmark-start text:name="__RefNumPara__91_491425939"/>Remove the battery from the laptop, then start charging the laptop. Do you see LED indicators lighting up?<text:bookmark-end text:name="__RefNumPara__91_491425939"/></text:p>
+     <text:p text:style-name="P11"><text:bookmark-start text:name="__RefNumPara__91_491425939"/>Remove the battery from the laptop, then start charging the laptop. Do you see LED indicators lighting up?<text:bookmark-end text:name="__RefNumPara__91_491425939"/></text:p>
      <text:list>
       <text:list-item>
-       <text:p text:style-name="P2">No</text:p>
+       <text:p text:style-name="P11"><text:bookmark-start text:name="__RefNumPara__268_491425939"/>No<text:bookmark-end text:name="__RefNumPara__268_491425939"/></text:p>
        <text:list>
         <text:list-item>
-         <text:p text:style-name="P3"><text:bookmark-start text:name="__RefNumPara__162_491425939"/>Either the charging port is dead, or there is a short-circuit itself in the board. Worst case-scenario being a dead motherboard.<text:bookmark-end text:name="__RefNumPara__162_491425939"/></text:p>
+         <text:p text:style-name="P12"><text:bookmark-start text:name="__RefNumPara__162_491425939"/>Either the charging port is dead, or there is a short-circuit itself in the board. Worst case-scenario being a dead motherboard.<text:bookmark-end text:name="__RefNumPara__162_491425939"/></text:p>
         </text:list-item>
        </text:list>
       </text:list-item>
       <text:list-item>
-       <text:p text:style-name="P2">Yes</text:p>
+       <text:p text:style-name="P11">Yes</text:p>
        <text:list>
         <text:list-item>
-         <text:p text:style-name="P2">Go to <text:bookmark-ref text:reference-format="number" text:ref-name="__RefNumPara__116_491425939">5</text:bookmark-ref></text:p>
+         <text:p text:style-name="P11">Go to <text:bookmark-ref text:reference-format="number" text:ref-name="__RefNumPara__116_491425939">5</text:bookmark-ref></text:p>
         </text:list-item>
        </text:list>
       </text:list-item>
      </text:list>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P4"><text:bookmark-start text:name="__RefNumPara__116_491425939"/>Attempt to power on the laptop. Does it boot up?<text:bookmark-end text:name="__RefNumPara__116_491425939"/></text:p>
+     <text:p text:style-name="P13"><text:bookmark-start text:name="__RefNumPara__116_491425939"/>Attempt to power on the laptop. Does it boot up?<text:bookmark-end text:name="__RefNumPara__116_491425939"/></text:p>
      <text:list>
       <text:list-item>
-       <text:p text:style-name="P4">No</text:p>
+       <text:p text:style-name="P13">No</text:p>
        <text:list>
         <text:list-item>
-         <text:p text:style-name="P4">Go to <text:bookmark-ref text:reference-format="number" text:ref-name="__RefNumPara__162_491425939">4(a)i</text:bookmark-ref></text:p>
+         <text:p text:style-name="P13">Go to <text:bookmark-ref text:reference-format="number" text:ref-name="__RefNumPara__268_491425939">4.a</text:bookmark-ref></text:p>
         </text:list-item>
        </text:list>
       </text:list-item>
       <text:list-item>
-       <text:p text:style-name="P4">Yes</text:p>
+       <text:p text:style-name="P13">Yes</text:p>
        <text:list>
         <text:list-item>
-         <text:p text:style-name="P4">Go to <text:bookmark-ref text:reference-format="number" text:ref-name="__RefNumPara__133_491425939">6</text:bookmark-ref></text:p>
+         <text:p text:style-name="P13">Go to <text:bookmark-ref text:reference-format="number" text:ref-name="__RefNumPara__133_491425939">6</text:bookmark-ref></text:p>
         </text:list-item>
        </text:list>
       </text:list-item>
      </text:list>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P4"><text:bookmark-start text:name="__RefNumPara__133_491425939"/>Do you see a BIOS/UEFI greeter while booting?<text:bookmark-end text:name="__RefNumPara__133_491425939"/></text:p>
+     <text:p text:style-name="P13"><text:bookmark-start text:name="__RefNumPara__133_491425939"/>Do you see a BIOS/UEFI greeter while booting?<text:bookmark-end text:name="__RefNumPara__133_491425939"/></text:p>
      <text:list>
       <text:list-item>
-       <text:p text:style-name="P4">No</text:p>
+       <text:p text:style-name="P13">No</text:p>
        <text:list>
         <text:list-item>
-         <text:p text:style-name="P4">The BIOS/UEFI may be corrupted.</text:p>
+         <text:p text:style-name="P13">The BIOS/UEFI may be corrupted.</text:p>
         </text:list-item>
        </text:list>
       </text:list-item>
       <text:list-item>
-       <text:p text:style-name="P4">Yes</text:p>
+       <text:p text:style-name="P13">Yes</text:p>
        <text:list>
         <text:list-item>
-         <text:p text:style-name="P4">Go to <text:bookmark-ref text:reference-format="number" text:ref-name="__RefNumPara__212_491425939">7</text:bookmark-ref></text:p>
+         <text:p text:style-name="P13">Go to <text:bookmark-ref text:reference-format="number" text:ref-name="__RefNumPara__212_491425939">7</text:bookmark-ref></text:p>
         </text:list-item>
        </text:list>
       </text:list-item>
      </text:list>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P4"><text:bookmark-start text:name="__RefNumPara__212_491425939"/>Does an operating system boot screen logo (e.g., Ubuntu, Windows 10) appear?<text:bookmark-end text:name="__RefNumPara__212_491425939"/></text:p>
+     <text:p text:style-name="P13"><text:bookmark-start text:name="__RefNumPara__212_491425939"/>Does an operating system boot screen logo (e.g., Ubuntu, Windows 10) appear?<text:bookmark-end text:name="__RefNumPara__212_491425939"/></text:p>
      <text:list>
       <text:list-item>
-       <text:p text:style-name="P4">No</text:p>
+       <text:p text:style-name="P13">No</text:p>
        <text:list>
         <text:list-item>
-         <text:p text:style-name="P4">Go to</text:p>
+         <text:p text:style-name="P13">Go to <text:bookmark-ref text:reference-format="number" text:ref-name="__RefNumPara__300_491425939">8</text:bookmark-ref></text:p>
         </text:list-item>
        </text:list>
       </text:list-item>
       <text:list-item>
-       <text:p text:style-name="P4">Yes</text:p>
+       <text:p text:style-name="P13">Yes</text:p>
        <text:list>
         <text:list-item>
-         <text:p text:style-name="P4">Go to</text:p>
+         <text:p text:style-name="P13">Go to <text:bookmark-ref text:reference-format="number" text:ref-name="__RefNumPara__231_4186162910">11</text:bookmark-ref></text:p>
+        </text:list-item>
+       </text:list>
+      </text:list-item>
+     </text:list>
+    </text:list-item>
+    <text:list-item>
+     <text:p text:style-name="P13"><text:bookmark-start text:name="__RefNumPara__300_491425939"/>Is a hard drive properly installed in the hard drive bay? <text:span text:style-name="T2">The BIOS/UEFI will usually show an attached storage device.</text:span><text:bookmark-end text:name="__RefNumPara__300_491425939"/></text:p>
+     <text:list>
+      <text:list-item>
+       <text:p text:style-name="P13">No</text:p>
+       <text:list>
+        <text:list-item>
+         <text:p text:style-name="P13">Install a hard drive properly then go to <text:bookmark-ref text:reference-format="number" text:ref-name="__RefNumPara__212_491425939">7</text:bookmark-ref></text:p>
+        </text:list-item>
+       </text:list>
+      </text:list-item>
+      <text:list-item>
+       <text:p text:style-name="P13">Yes</text:p>
+       <text:list>
+        <text:list-item>
+         <text:p text:style-name="P14">Go to <text:bookmark-ref text:reference-format="number" text:ref-name="__RefNumPara__184_4186162910">9</text:bookmark-ref></text:p>
+        </text:list-item>
+       </text:list>
+      </text:list-item>
+     </text:list>
+    </text:list-item>
+    <text:list-item>
+     <text:p text:style-name="P15"><text:bookmark-start text:name="__RefNumPara__184_4186162910"/>Plug in a Windows 10 installer and attempt to install the operating system. Does it show an installable hard drive as its target?<text:bookmark-end text:name="__RefNumPara__184_4186162910"/></text:p>
+     <text:list>
+      <text:list-item>
+       <text:p text:style-name="P15">No</text:p>
+       <text:list>
+        <text:list-item>
+         <text:p text:style-name="P15">Go to <text:bookmark-ref text:reference-format="number" text:ref-name="__RefNumPara__137_3538725098">10</text:bookmark-ref></text:p>
+        </text:list-item>
+       </text:list>
+      </text:list-item>
+      <text:list-item>
+       <text:p text:style-name="P15">Yes</text:p>
+       <text:list>
+        <text:list-item>
+         <text:p text:style-name="P15">Proceed to installing Windows 10 on the hard drive. It is likely the hard drive is either blank, or the files on it are corrupted.</text:p>
+        </text:list-item>
+       </text:list>
+      </text:list-item>
+     </text:list>
+    </text:list-item>
+    <text:list-item>
+     <text:p text:style-name="P14"><text:bookmark-start text:name="__RefNumPara__137_3538725098"/>Remove the hard drive from the bay, and test with another computer. Can the hard drive be mounted?<text:bookmark-end text:name="__RefNumPara__137_3538725098"/></text:p>
+     <text:list>
+      <text:list-item>
+       <text:p text:style-name="P14"><text:soft-page-break/>No</text:p>
+       <text:list>
+        <text:list-item>
+         <text:p text:style-name="P14">This is a faulty drive, and requires more advance solutions.</text:p>
+        </text:list-item>
+       </text:list>
+      </text:list-item>
+      <text:list-item>
+       <text:p text:style-name="P14">Yes</text:p>
+       <text:list>
+        <text:list-item>
+         <text:p text:style-name="P9"><text:span text:style-name="T3">Format the drive and go to </text:span><text:span text:style-name="T3"><text:bookmark-ref text:reference-format="number" text:ref-name="__RefNumPara__184_4186162910">9</text:bookmark-ref></text:span></text:p>
+        </text:list-item>
+       </text:list>
+      </text:list-item>
+     </text:list>
+    </text:list-item>
+    <text:list-item>
+     <text:p text:style-name="P16"><text:bookmark-start text:name="__RefNumPara__231_4186162910"/>Can you log into the user/admin account?<text:bookmark-end text:name="__RefNumPara__231_4186162910"/></text:p>
+     <text:list>
+      <text:list-item>
+       <text:p text:style-name="P16">No</text:p>
+       <text:list>
+        <text:list-item>
+         <text:p text:style-name="P16">Go to <text:bookmark-ref text:reference-format="number" text:ref-name="__RefNumPara__293_4186162910">12</text:bookmark-ref></text:p>
+        </text:list-item>
+       </text:list>
+      </text:list-item>
+      <text:list-item>
+       <text:p text:style-name="P16">Yes</text:p>
+       <text:list>
+        <text:list-item>
+         <text:p text:style-name="P17">Go to <text:bookmark-ref text:reference-format="number" text:ref-name="__RefNumPara__422_4186162910">15</text:bookmark-ref></text:p>
+        </text:list-item>
+       </text:list>
+      </text:list-item>
+     </text:list>
+    </text:list-item>
+    <text:list-item>
+     <text:p text:style-name="P16"><text:bookmark-start text:name="__RefNumPara__293_4186162910"/>Is there important data on the hard drive<text:bookmark-end text:name="__RefNumPara__293_4186162910"/></text:p>
+     <text:list>
+      <text:list-item>
+       <text:p text:style-name="P16"><text:bookmark-start text:name="__RefNumPara__235_4186162910"/>No<text:bookmark-end text:name="__RefNumPara__235_4186162910"/></text:p>
+       <text:list>
+        <text:list-item>
+         <text:p text:style-name="P16">Reinstall your operating system</text:p>
+        </text:list-item>
+       </text:list>
+      </text:list-item>
+      <text:list-item>
+       <text:p text:style-name="P16">Yes</text:p>
+       <text:list>
+        <text:list-item>
+         <text:p text:style-name="P16">Go to <text:bookmark-ref text:reference-format="number" text:ref-name="__RefNumPara__233_4186162910">13</text:bookmark-ref></text:p>
+        </text:list-item>
+       </text:list>
+      </text:list-item>
+     </text:list>
+    </text:list-item>
+    <text:list-item>
+     <text:p text:style-name="P16"><text:bookmark-start text:name="__RefNumPara__233_4186162910"/>Mount the hard drive with an external hard disk drive adapter. Is the hard drive encrypted?<text:bookmark-end text:name="__RefNumPara__233_4186162910"/></text:p>
+     <text:list>
+      <text:list-item>
+       <text:p text:style-name="P16">No</text:p>
+       <text:list>
+        <text:list-item>
+         <text:p text:style-name="P16">Retrieve the important files, then proceed to <text:bookmark-ref text:reference-format="number" text:ref-name="__RefNumPara__235_4186162910">12.a</text:bookmark-ref></text:p>
+        </text:list-item>
+       </text:list>
+      </text:list-item>
+      <text:list-item>
+       <text:p text:style-name="P16">Yes</text:p>
+       <text:list>
+        <text:list-item>
+         <text:p text:style-name="P16">Go to <text:bookmark-ref text:reference-format="number" text:ref-name="__RefNumPara__237_4186162910">14</text:bookmark-ref></text:p>
+        </text:list-item>
+       </text:list>
+      </text:list-item>
+     </text:list>
+    </text:list-item>
+    <text:list-item>
+     <text:p text:style-name="P16"><text:bookmark-start text:name="__RefNumPara__237_4186162910"/>Do you have access to the password to unlock the encrypted hard drive?<text:bookmark-end text:name="__RefNumPara__237_4186162910"/></text:p>
+     <text:list>
+      <text:list-item>
+       <text:p text:style-name="P16">No</text:p>
+       <text:list>
+        <text:list-item>
+         <text:p text:style-name="P16">Unfortunately, you will have to engage external services to decrypt your device. If the files are not needed anymore, proceed to reinstalling the operating system.</text:p>
+        </text:list-item>
+       </text:list>
+      </text:list-item>
+      <text:list-item>
+       <text:p text:style-name="P16">Yes</text:p>
+       <text:list>
+        <text:list-item>
+         <text:p text:style-name="P16">Unlock the hard drive, then retrieve the files. <text:span text:style-name="T4">Reinstall the operating system afterwards.</text:span></text:p>
+        </text:list-item>
+       </text:list>
+      </text:list-item>
+     </text:list>
+    </text:list-item>
+    <text:list-item>
+     <text:p text:style-name="P17"><text:bookmark-start text:name="__RefNumPara__422_4186162910"/>Is there a WiFi network you can use in your area?<text:bookmark-end text:name="__RefNumPara__422_4186162910"/></text:p>
+     <text:list>
+      <text:list-item>
+       <text:p text:style-name="P17">Yes</text:p>
+       <text:list>
+        <text:list-item>
+         <text:p text:style-name="P17">Go to <text:bookmark-ref text:reference-format="number" text:ref-name="__RefNumPara__295_4186162910">16</text:bookmark-ref></text:p>
+        </text:list-item>
+       </text:list>
+      </text:list-item>
+      <text:list-item>
+       <text:p text:style-name="P17">No</text:p>
+       <text:list>
+        <text:list-item>
+         <text:p text:style-name="P17">Go to <text:bookmark-ref text:reference-format="number" text:ref-name="__RefNumPara__490_4186162910">18</text:bookmark-ref></text:p>
+        </text:list-item>
+       </text:list>
+      </text:list-item>
+     </text:list>
+    </text:list-item>
+    <text:list-item>
+     <text:p text:style-name="P17"><text:bookmark-start text:name="__RefNumPara__295_4186162910"/>Can you connect to a WiFi SSID?<text:bookmark-end text:name="__RefNumPara__295_4186162910"/></text:p>
+     <text:list>
+      <text:list-item>
+       <text:p text:style-name="P17">No</text:p>
+       <text:list>
+        <text:list-item>
+         <text:p text:style-name="P17">Go to <text:bookmark-ref text:reference-format="number" text:ref-name="__RefNumPara__357_4186162910">17</text:bookmark-ref></text:p>
+        </text:list-item>
+       </text:list>
+      </text:list-item>
+      <text:list-item>
+       <text:p text:style-name="P17">Yes</text:p>
+       <text:list>
+        <text:list-item>
+         <text:p text:style-name="P17">After connecting to a WiFi SSID, go to</text:p>
+        </text:list-item>
+       </text:list>
+      </text:list-item>
+     </text:list>
+    </text:list-item>
+    <text:list-item>
+     <text:p text:style-name="P10"><text:bookmark-start text:name="__RefNumPara__357_4186162910"/><text:span text:style-name="T4">Check for a physical WiFi toggle switch or a function key toggle switch for WiFi. Toggle it on. Do you see see available WiFi networks?</text:span><text:bookmark-end text:name="__RefNumPara__357_4186162910"/></text:p>
+     <text:list>
+      <text:list-item>
+       <text:p text:style-name="P17">No</text:p>
+       <text:list>
+        <text:list-item>
+         <text:p text:style-name="P17">Go to</text:p>
+        </text:list-item>
+       </text:list>
+      </text:list-item>
+      <text:list-item>
+       <text:p text:style-name="P17">Yes</text:p>
+       <text:list>
+        <text:list-item>
+         <text:p text:style-name="P17">Go to <text:bookmark-ref text:reference-format="number" text:ref-name="__RefNumPara__295_4186162910">16</text:bookmark-ref></text:p>
+        </text:list-item>
+       </text:list>
+      </text:list-item>
+     </text:list>
+    </text:list-item>
+    <text:list-item>
+     <text:p text:style-name="P10"><text:bookmark-start text:name="__RefNumPara__490_4186162910"/><text:span text:style-name="T4">Connect your computer to the Internet with an Ethernet cable to the nearest gateway router. Are you able to access Internet services?</text:span><text:bookmark-end text:name="__RefNumPara__490_4186162910"/></text:p>
+     <text:list>
+      <text:list-item>
+       <text:p text:style-name="P17">No</text:p>
+       <text:list>
+        <text:list-item>
+         <text:p text:style-name="P17">Go to</text:p>
+        </text:list-item>
+       </text:list>
+      </text:list-item>
+      <text:list-item>
+       <text:p text:style-name="P17">Yes</text:p>
+       <text:list>
+        <text:list-item>
+         <text:p text:style-name="P17">Go to <text:bookmark-ref text:reference-format="number" text:ref-name="__RefNumPara__492_4186162910">19</text:bookmark-ref></text:p>
+        </text:list-item>
+       </text:list>
+      </text:list-item>
+     </text:list>
+    </text:list-item>
+    <text:list-item>
+     <text:p text:style-name="P17"><text:bookmark-start text:name="__RefNumPara__492_4186162910"/>Open the Windows Update service from the Windows settings app. Can you run updates?<text:bookmark-end text:name="__RefNumPara__492_4186162910"/></text:p>
+     <text:list>
+      <text:list-item>
+       <text:p text:style-name="P17">No</text:p>
+       <text:list>
+        <text:list-item>
+         <text:p text:style-name="P17">Check that you are properly connected to the Internet then retry. If you are unable to run updates even though there are no network issues, either the hard drive space is <text:soft-page-break/>not adequate for running updates, or the operating system has a system fault preventing updates from working. Reinstalling the operating system would be one simple solution to attempt.</text:p>
         </text:list-item>
        </text:list>
       </text:list-item>
      </text:list>
     </text:list-item>
    </text:list>
-   <text:p text:style-name="Standard"/>
-   <text:p text:style-name="Standard"/>
   </office:text>
  </office:body>
 </office:document>
